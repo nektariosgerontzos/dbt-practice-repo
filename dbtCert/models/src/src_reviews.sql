@@ -1,0 +1,9 @@
+WITH dataset AS (
+    SELECT * FROM AIRBNB.RAW.RAW_REVIEWS
+)
+SELECT * 
+FROM dataset
+
+
+
+
